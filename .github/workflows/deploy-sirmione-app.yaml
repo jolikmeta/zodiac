@@ -4,7 +4,7 @@
 
 #on:
 #  push:
-#    paths:
+#    paths: 
 #    - sirmione-web/Application/Sirmione.Web/**
 
 on: [workflow_dispatch]
