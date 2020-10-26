@@ -1,11 +1,11 @@
 #!/bin/bash
 
 export DEFAULT_LOCATION=northeurope
-export SIRMIONE_ALIAS=zbpsirmione
-export LIMONE_ALIAS=zbplimone
-export SCORPIO_ALIAS=zbpscorpio
-export VIRGO_ALIAS=zbpvirgo
-export LIBRA_ALIAS=zbplibra
+export SIRMIONE_ALIAS=jl1707sirmione
+export LIMONE_ALIAS=jl1707limone
+export SCORPIO_ALIAS=jl1707scorpio
+export VIRGO_ALIAS=jl1707virgo
+export LIBRA_ALIAS=jl1707libra
 export ZODIAC_ALIAS=jl1707zodiac
 export DB_ADMIN_USER=nick
 export AAD_DOMAIN=xekina.onmicrosoft.com
