@@ -1,7 +1,7 @@
 name: Deploy Virgo App
 env:
    DEFAULT_LOCATION: northeurope
-   VIRGO_ALIAS: jl1707virgo
+   VIRGO_ALIAS: JL1707virgo
 #on:
 #  push: 
 #    paths:
