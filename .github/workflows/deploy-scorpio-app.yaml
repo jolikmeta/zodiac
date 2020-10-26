@@ -1,7 +1,7 @@
 name: Deploy Scorpio App
 env:
   DEFAULT_LOCATION: northeurope
-  SCORPIO_ALIAS: jl1707scorpio
+  SCORPIO_ALIAS: JL1707scorpio
 #on:
 #  push: 
 #    paths:
