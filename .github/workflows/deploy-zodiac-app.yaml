@@ -1,7 +1,7 @@
 name: Deploy Zodiac App
 env:
    DEFAULT_LOCATION: northeurope
-   ZODIAC_ALIAS: jl1707zodiac
+   ZODIAC_ALIAS: JL1707zodiac
 
 #on: 
 #  push:
